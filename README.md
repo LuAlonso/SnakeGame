@@ -1,0 +1,1 @@
+A classic Snake game built with HTML, CSS, and JavaScript. The player controls a snake that moves around a grid, eating red food blocks to grow longer. The game ends if the snake hits the wall or its own body, and a "Game Over" alert prompts the player to reload the page to try again
